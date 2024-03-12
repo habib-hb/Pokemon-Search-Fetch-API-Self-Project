@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+span{
+  color: lightblue;
+}
+
+button{
+  margin-top: 4px;
+}
